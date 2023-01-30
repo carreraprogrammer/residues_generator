@@ -1,6 +1,6 @@
 const Output = () => {
     return (
-        <h1>Hello Output</h1>
+        <h1></h1>
     )
 }
 
